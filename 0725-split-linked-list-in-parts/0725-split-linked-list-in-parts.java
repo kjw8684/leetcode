@@ -28,7 +28,7 @@ class Solution {
             }
             count--;
             if(temp != null){
-                temp.next = null;
+                temp.next = null; 
             }
         }
         return listnode;
