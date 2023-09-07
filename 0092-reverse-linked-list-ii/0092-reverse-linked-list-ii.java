@@ -28,6 +28,7 @@ class Solution {
             nextNode.next = prev.next;
             prev.next = nextNode;
         }
+        //for 문으로 left랑 right 위치를 바꿔줌
         return dummy.next;
     }
 }
