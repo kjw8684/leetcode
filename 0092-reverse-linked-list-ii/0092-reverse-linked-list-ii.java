@@ -28,10 +28,6 @@ class Solution {
             nextNode.next = prev.next;
             prev.next = nextNode;
         }
-        while(prev != null){
-            System.out.println(prev.val);
-            prev = prev.next;
-        }
         return dummy.next;
     }
 }
