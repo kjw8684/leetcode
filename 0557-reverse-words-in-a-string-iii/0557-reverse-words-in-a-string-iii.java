@@ -1,19 +1,20 @@
 class Solution {
     public String reverseWords(String s) {
-        String temp = "";
-        StringBuilder answer = new StringBuilder();
+        int starting_point = 0;
+        StringBuilder answer = new StringBuilder(), temp = new StringBuilder();
         
         for (int i = 0; i < s.length(); i++) {
-            boolean is_not_blank = s.charAt(i) != ' ';
-            if (is_not_blank) {
-                temp = s.charAt(i) + temp;
-            }else {
-                answer.append(temp);
+            boolean is_blank = s.charAt(i) == ' ';
+            if (is_blank) {
+                temp.append(s.substring(starting_point, i));
+                answer.append(temp.reverse());
                 answer.append(" ");
-                temp = "";
+                temp.setLength(0);
+                starting_point = i + 1;
             }
         }
-        answer.append(temp);
+        temp.append(s.substring(starting_point));
+        answer.append(temp.reverse());
 
         return answer.toString();
     }
