@@ -9,8 +9,7 @@ class Solution {
                 insert(s, i);
             }
         }
-        temp.append(s.substring(starting_point));
-        answer.append(temp.reverse());
+        last_insert(s);
 
         return answer.toString();
     }
@@ -21,6 +20,13 @@ class Solution {
         answer.append(" ");
         temp.setLength(0);
         starting_point = i + 1;
+
+        return 1;
+    }
+
+    public int last_insert(String s) {
+        temp.append(s.substring(starting_point));
+        answer.append(temp.reverse());
 
         return 1;
     }
