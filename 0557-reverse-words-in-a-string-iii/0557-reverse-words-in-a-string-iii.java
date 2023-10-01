@@ -14,20 +14,16 @@ class Solution {
         return answer.toString();
     }
 
-    public int insert(String s, int i) {
+    private void insert(String s, int i) {
         temp.append(s.substring(starting_point, i));
         answer.append(temp.reverse());
         answer.append(" ");
         temp.setLength(0);
         starting_point = i + 1;
-
-        return 1;
     }
 
-    public int last_insert(String s) {
+    private void last_insert(String s) {
         temp.append(s.substring(starting_point));
         answer.append(temp.reverse());
-
-        return 1;
     }
 }
