@@ -7,18 +7,15 @@ class Solution {
                 if (start == -1) {
                     start = i;
                 }
-                
-                if (i + 1 < nums.length && nums[i + 1] != target && start != -1) {
+
+                boolean next_isnt_same = i + 1 < nums.length && nums[i + 1] != target && start != -1;
+                if (next_isnt_same) {
                     end = i;
                     break;
                 }
             }
         }
-
-        if (start != -1 && end == -1) {
-            end = nums.length - 1;
-        }
-
-        return new int[] {start, end};
+        
+        return start != -1 && end == -1 ? new int[] {start, nums.length - 1} : new int[] {start, end};
     }
 }
