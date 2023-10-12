@@ -10,8 +10,8 @@
  
 class Solution {
     public int findInMountainArray(int target, MountainArray mountainArr) {
-        int ml = mountainArr.length(), left = 0, rigth = ml, max_index = -1, mid;
-        int num1, num2, num3;
+        int ml = mountainArr.length(), left = 0, rigth = ml, max_index = -1, mid, num1, num2, num3;
+
         while (left < rigth) {
             mid = left + (rigth - left) / 2;
 
@@ -30,11 +30,9 @@ class Solution {
             if (num1 < num2 && num2 < num3) {
                 left = mid + 1;
             }
-
             if (num1 > num2 && num2 > num3) {
                 rigth = mid;
             }
-
             if (num1 < num2 && num2 > num3) {
                 if (num2 < target) {
                     return -1;
@@ -43,6 +41,7 @@ class Solution {
                 if (num2 == target) {
                     return mid;
                 }
+                
                 max_index = mid;
                 break;
             }
