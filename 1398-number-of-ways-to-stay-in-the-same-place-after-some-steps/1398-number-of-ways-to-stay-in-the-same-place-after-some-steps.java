@@ -2,12 +2,9 @@ import java.math.BigInteger;
 
 class Solution {
     public int numWays(int steps, int arrLen) {
-        if (arrLen == 1) {
-            return 1;
-        }
-        if (arrLen > steps) {
-            arrLen = steps;
-        }
+        if (arrLen == 1) return 1;
+        if (arrLen > steps) arrLen = steps;
+        
         BigInteger[][] answer = new BigInteger[steps + 1][arrLen];
         BigInteger fill = new BigInteger("0");
         for (int i = 0; i < steps + 1; i++) {
