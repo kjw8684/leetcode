@@ -37,4 +37,9 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Joo-ProtoType/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/Joo-ProtoType/leetcode/tree/master/2645-pass-the-pillow) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Joo-ProtoType/leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
