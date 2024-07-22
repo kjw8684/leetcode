@@ -1,9 +1,9 @@
 class Solution {
     public String[] sortPeople(String[] names, int[] heights) {
-        int itemp;
+        int itemp, len = names.length;
         String ntemp;
-        for(int i = 0; i < names.length; i++) {
-            for(int j = i; j < names.length; j++) {
+        for(int i = 0; i < len; i++) {
+            for(int j = i; j < len; j++) {
                 if(heights[i] < heights[j]) {
                     itemp = heights[j];
                     ntemp = names[j];
