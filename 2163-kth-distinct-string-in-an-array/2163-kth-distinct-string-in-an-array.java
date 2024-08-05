@@ -2,27 +2,21 @@ class Solution {
     public String kthDistinct(String[] arr, int k) {
         int len = arr.length;
         List<String> dup = new ArrayList<>();
-        Queue<String> queue = new LinkedList<>();
+        List<String> uni = new ArrayList<>();
 
         for(int i = 0; i < len; i++) {
-            if(queue.contains(arr[i])) {
-                dup.add(arr[i]);
+            if(dup.contains(arr[i])) {
+                uni.remove(arr[i]);
+                continue;
             }
-            else {
-                queue.offer(arr[i]);
-            }
+            dup.add(arr[i]);
+            uni.add(arr[i]);
         }
 
-        while(!queue.isEmpty()) {
-            if(!dup.contains(queue.peek())) {
-                if(k == 1) {
-                    return queue.poll();
-                }
-                k--;
-            }
-            queue.poll();
+        if(uni.size() < k) {
+            return "";
         }
 
-        return "";
+        return uni.get(k - 1);
     }
 }
