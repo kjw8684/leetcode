@@ -2,14 +2,13 @@ class Solution {
     public int[] missingRolls(int[] rolls, int mean, int n) {
         int len = rolls.length, left = mean * (n + len) - Arrays.stream(rolls).sum(), cur = 0;
         int[] answer = new int[n];
+        if(left > n * 6 || left < n) {
+            return new int[]{};
+        }
 
         for(int i = 0; i < n; i++) {
-            cur = left / (n - i);
-            if(cur > 6 || cur < 1) {
-                return new int[]{};
-            }
-            answer[i] = cur;
-            left -= cur;
+            answer[i] = left / (n - i);
+            left -= answer[i];
         }
 
         return answer;
