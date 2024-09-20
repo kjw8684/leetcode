@@ -170,6 +170,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Joo-ProtoType/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/Joo-ProtoType/leetcode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Joo-ProtoType/leetcode/tree/master/0214-shortest-palindrome) |
 | [0273-integer-to-english-words](https://github.com/Joo-ProtoType/leetcode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/Joo-ProtoType/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Joo-ProtoType/leetcode/tree/master/0564-find-the-closest-palindrome) |
@@ -385,4 +386,16 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Joo-ProtoType/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Joo-ProtoType/leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Joo-ProtoType/leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Joo-ProtoType/leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
