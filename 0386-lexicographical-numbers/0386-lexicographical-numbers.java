@@ -15,10 +15,10 @@ class Solution {
 
         while(true) {
             if(num > n) {
-                num /= 10;
-                if(answer.contains(num)) {
+                while(num % 10 != 0) {
                     num++;
-                }
+                };
+                num /= 10;
             }
 
             if(num % 10 == 0) {
