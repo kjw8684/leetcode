@@ -1,7 +1,7 @@
 class Solution {
     public int longestCommonPrefix(int[] arr1, int[] arr2) {
         Set<Integer> set = new HashSet<>();
-        int max = 0, len1 = arr1.length, len2 = arr2.length, temp1 = 0, temp2 = 0;
+        int max = 0, len1 = arr1.length, len2 = arr2.length;
 
         for(int i = 0; i < len1; i++) {
             while(arr1[i] != 0) {
