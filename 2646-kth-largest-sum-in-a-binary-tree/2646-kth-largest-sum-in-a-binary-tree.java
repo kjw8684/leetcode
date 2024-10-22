@@ -15,37 +15,29 @@
  */
 class Solution {
     public long kthLargestLevelSum(TreeNode root, int k) {
-        int level = depth(root, 1);
-        if(level < k) {
+        List<Long> list = new ArrayList<>();
+        add(root, list, 0);
+        int size = list.size();
+        if(size < k) {
             return -1;
         }
-        long[] answer = new long[level];
+        Collections.sort(list);
 
-        add(root, answer, 0);
-        Arrays.sort(answer);
-
-        return answer[level - k];
+        return list.get(size - k);
     }
 
-    public int depth(TreeNode root, int level) {
-        int max = level;
+    public void add(TreeNode root, List<Long> list, int level) {
+        if(list.size() < level + 1) {
+            list.add(Long.valueOf(root.val));
+        }
+        else {
+            list.set(level, list.get(level) + root.val);
+        }
         if(root.left != null) {
-            max = Math.max(max, depth(root.left, level + 1));
+            add(root.left, list, level + 1);
         }
         if(root.right != null) {
-            max = Math.max(max, depth(root.right, level + 1));
-        }
-
-        return max;
-    }
-
-    public void add(TreeNode root, long[] answer, int level) {
-        answer[level] += root.val;
-        if(root.left != null) {
-            add(root.left, answer, level + 1);
-        }
-        if(root.right != null) {
-            add(root.right, answer, level + 1);
+            add(root.right, list, level + 1);
         }
     }
 }
