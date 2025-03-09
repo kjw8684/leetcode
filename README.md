@@ -153,6 +153,7 @@
 | [3427-special-array-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Joo-ProtoType/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Joo-ProtoType/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -809,6 +810,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Joo-ProtoType/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3483-alternating-groups-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Union Find
 |  |
