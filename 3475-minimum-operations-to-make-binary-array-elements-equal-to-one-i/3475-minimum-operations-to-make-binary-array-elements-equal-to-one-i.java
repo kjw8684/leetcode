@@ -16,7 +16,7 @@ class Solution {
     }
 
     public void flip(int[] nums, int index) {
-        for(int i = 2; i >= 0; i--) {
+        for(int i = 1; i >= 0; i--) {
             nums[index - i] = Math.abs(nums[index - i] - 1);
         }
     }
