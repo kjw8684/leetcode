@@ -9,10 +9,6 @@ class Solution {
             maxarr[i] = Math.max(maxarr[i - 1], max - nums[i]);
             max = Math.max(max, nums[i]);
         }
-        
-        for(int cur : maxarr) {
-            System.out.println(cur);
-        }
 
         for(int i = 2; i < len; i++) {
             answer = Math.max(answer, (long)maxarr[i - 1] * nums[i]);
