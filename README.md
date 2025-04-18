@@ -488,6 +488,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Joo-ProtoType/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/Joo-ProtoType/leetcode/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/Joo-ProtoType/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Joo-ProtoType/leetcode/tree/master/0214-shortest-palindrome) |
 | [0273-integer-to-english-words](https://github.com/Joo-ProtoType/leetcode/tree/master/0273-integer-to-english-words) |
