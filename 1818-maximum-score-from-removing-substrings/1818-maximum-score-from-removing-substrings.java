@@ -1,65 +1,43 @@
 class Solution {
     public int maximumGain(String s, int x, int y) {
         Stack<Character> stack = new Stack<>();
-        int score = 0, len = s.length();
+        int score = 0, len = s.length(), big = y, small = x;
+        char bigchar = 'a', smallchar = 'b';
         stack.push(s.charAt(0));
 
         if(x > y) {
-            for(int i = 1; i < len; i++) {
-                char cur = s.charAt(i);
-                if(!stack.isEmpty() && cur == 'b' && stack.peek() == 'a') {
-                    stack.pop();
-                    score += x;
-                }
-                else {
-                    stack.push(cur);
-                }
-            }
+            big = x;
+            small = y;
+            bigchar = 'b';
+            smallchar = 'a';
+        }
 
-            if(stack.isEmpty()) {
-                return score;
-            }
 
-            Stack<Character> stack2 = new Stack<>();
-            stack2.push(stack.pop());
-            while(!stack.isEmpty()) {
-                char cur = stack.pop();
-                if(!stack2.isEmpty() && cur == 'b' && stack2.peek() == 'a') {
-                    stack2.pop();
-                    score += y;
-                }
-                else {
-                    stack2.push(cur);
-                }
+        for(int i = 1; i < len; i++) {
+            char cur = s.charAt(i);
+            if(!stack.isEmpty() && cur == bigchar && stack.peek() == smallchar) {
+                stack.pop();
+                score += big;
+            }
+            else {
+                stack.push(cur);
             }
         }
-        else {
-            for(int i = 1; i < len; i++) {
-                char cur = s.charAt(i);
-                if(!stack.isEmpty() && cur == 'a' && stack.peek() == 'b') {
-                    stack.pop();
-                    score += y;
-                }
-                else {
-                    stack.push(cur);
-                }
-            }
 
-            if(stack.isEmpty()) {
-                return score;
-            }
+        if(stack.isEmpty()) {
+            return score;
+        }
 
-            Stack<Character> stack2 = new Stack<>();
-            stack2.push(stack.pop());
-            while(!stack.isEmpty()) {
-                char cur = stack.pop();
-                if(!stack2.isEmpty() && cur == 'a' && stack2.peek() == 'b') {
-                    stack2.pop();
-                    score += x;
-                }
-                else {
-                    stack2.push(cur);
-                }
+        Stack<Character> stack2 = new Stack<>();
+        stack2.push(stack.pop());
+        while(!stack.isEmpty()) {
+            char cur = stack.pop();
+            if(!stack2.isEmpty() && cur == bigchar && stack2.peek() == smallchar) {
+                stack2.pop();
+                score += small;
+            }
+            else {
+                stack2.push(cur);
             }
         }
 
