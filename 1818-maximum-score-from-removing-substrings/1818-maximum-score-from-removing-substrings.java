@@ -1,53 +1,68 @@
 class Solution {
     public int maximumGain(String s, int x, int y) {
-        StringBuilder sb = new StringBuilder(s);
-        int point = 0;
-        
+        Stack<Character> stack = new Stack<>();
+        int score = 0, len = s.length();
+        stack.push(s.charAt(0));
+
         if(x > y) {
-            for(int i = 0; i < sb.length() - 1; i++) {
-                if(sb.charAt(i) == 'a' && sb.charAt(i + 1) == 'b') {
-                    sb.delete(i, i + 2);
-                    point += x;
-                    i -= 2;
-                    if (i == -2) {
-                        i = -1;
-                    }
+            for(int i = 1; i < len; i++) {
+                char cur = s.charAt(i);
+                if(!stack.isEmpty() && cur == 'b' && stack.peek() == 'a') {
+                    stack.pop();
+                    score += x;
+                }
+                else {
+                    stack.push(cur);
                 }
             }
-            for(int i = 0; i < sb.length() - 1; i++) {
-                if(sb.charAt(i) == 'b' && sb.charAt(i + 1) == 'a') {
-                    sb.delete(i, i + 2);
-                    point += y;
-                    i -= 2;
-                    if (i == -2) {
-                        i = -1;
-                    }
+
+            if(stack.isEmpty()) {
+                return score;
+            }
+
+            Stack<Character> stack2 = new Stack<>();
+            stack2.push(stack.pop());
+            while(!stack.isEmpty()) {
+                char cur = stack.pop();
+                if(!stack2.isEmpty() && cur == 'b' && stack2.peek() == 'a') {
+                    stack2.pop();
+                    score += y;
+                }
+                else {
+                    stack2.push(cur);
                 }
             }
         }
         else {
-            for(int i = 0; i < sb.length() - 1; i++) {
-                if(sb.charAt(i) == 'b' && sb.charAt(i + 1) == 'a') {
-                    sb.delete(i, i + 2);
-                    point += y;
-                    i -= 2;
-                    if (i == -2) {
-                        i = -1;
-                    }
+            for(int i = 1; i < len; i++) {
+                char cur = s.charAt(i);
+                if(!stack.isEmpty() && cur == 'a' && stack.peek() == 'b') {
+                    stack.pop();
+                    score += y;
+                }
+                else {
+                    stack.push(cur);
                 }
             }
-            for(int i = 0; i < sb.length() - 1; i++) {
-                if(sb.charAt(i) == 'a' && sb.charAt(i + 1) == 'b') {
-                    sb.delete(i, i + 2);
-                    point += x;
-                    i -= 2;
-                    if (i == -2) {
-                        i = -1;
-                    }
+
+            if(stack.isEmpty()) {
+                return score;
+            }
+
+            Stack<Character> stack2 = new Stack<>();
+            stack2.push(stack.pop());
+            while(!stack.isEmpty()) {
+                char cur = stack.pop();
+                if(!stack2.isEmpty() && cur == 'a' && stack2.peek() == 'b') {
+                    stack2.pop();
+                    score += x;
+                }
+                else {
+                    stack2.push(cur);
                 }
             }
         }
 
-        return point;
+        return score;
     }
 }
