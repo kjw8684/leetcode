@@ -22,10 +22,6 @@ class Solution {
                     }
                 }
             }
-            else if(fruits[i] == first){
-                first = second;
-                second = fruits[i];
-            }
         }
 
         return Math.max(max, len - left);
