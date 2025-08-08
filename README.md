@@ -601,6 +601,7 @@
 | [0650-2-keys-keyboard](https://github.com/Joo-ProtoType/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Joo-ProtoType/leetcode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Joo-ProtoType/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/Joo-ProtoType/leetcode/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Joo-ProtoType/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1065,6 +1066,7 @@
 | [0664-strange-printer](https://github.com/Joo-ProtoType/leetcode/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Joo-ProtoType/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/Joo-ProtoType/leetcode/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/Joo-ProtoType/leetcode/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/Joo-ProtoType/leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Joo-ProtoType/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Joo-ProtoType/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1444,4 +1446,8 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Joo-ProtoType/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Joo-ProtoType/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Joo-ProtoType/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Joo-ProtoType/leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
