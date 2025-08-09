@@ -592,6 +592,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Joo-ProtoType/leetcode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Joo-ProtoType/leetcode/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/Joo-ProtoType/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -646,6 +647,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Joo-ProtoType/leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Joo-ProtoType/leetcode/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/Joo-ProtoType/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Joo-ProtoType/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1299,6 +1301,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Joo-ProtoType/leetcode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Joo-ProtoType/leetcode/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Joo-ProtoType/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Joo-ProtoType/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
