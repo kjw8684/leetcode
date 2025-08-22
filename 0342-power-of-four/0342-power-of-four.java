@@ -1,13 +1,18 @@
 class Solution {
     public boolean isPowerOfFour(int n) {
-        double x = -1, i = 0, answer = n;
-        while (x < n) {
-            x = Math.pow(4, i);
-            if (answer == x) {
+        if(n <= 0) {
+            return false;
+        }
+        for(int i = 0; i < 16; i++) {
+            int cur = (int)Math.pow(4, i);
+            if(n == cur) {
                 return true;
             }
-            i++;
+            else if(n < cur) {
+                return false;
+            }
         }
+
         return false;
     }
 }

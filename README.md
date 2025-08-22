@@ -7,6 +7,7 @@
 | [0040-combination-sum-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Joo-ProtoType/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Joo-ProtoType/leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Joo-ProtoType/leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Joo-ProtoType/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Joo-ProtoType/leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -18,6 +19,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Joo-ProtoType/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/Joo-ProtoType/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Joo-ProtoType/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0679-24-game](https://github.com/Joo-ProtoType/leetcode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Joo-ProtoType/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Joo-ProtoType/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Joo-ProtoType/leetcode/tree/master/0729-my-calendar-i) |
@@ -34,6 +36,8 @@
 | [0906-walking-robot-simulation](https://github.com/Joo-ProtoType/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Joo-ProtoType/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Joo-ProtoType/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Joo-ProtoType/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Joo-ProtoType/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Joo-ProtoType/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Joo-ProtoType/leetcode/tree/master/0952-word-subsets) |
@@ -74,6 +78,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Joo-ProtoType/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Joo-ProtoType/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Joo-ProtoType/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Joo-ProtoType/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Joo-ProtoType/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Joo-ProtoType/leetcode/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Joo-ProtoType/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -126,6 +131,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Joo-ProtoType/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Joo-ProtoType/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Joo-ProtoType/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Joo-ProtoType/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2232-adding-spaces-to-a-string](https://github.com/Joo-ProtoType/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Joo-ProtoType/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/Joo-ProtoType/leetcode/tree/master/2249-count-the-hidden-sequences) |
@@ -147,6 +153,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Joo-ProtoType/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Joo-ProtoType/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Joo-ProtoType/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Joo-ProtoType/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Joo-ProtoType/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Joo-ProtoType/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -160,6 +167,7 @@
 | [2502-sort-the-people](https://github.com/Joo-ProtoType/leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Joo-ProtoType/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Joo-ProtoType/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/Joo-ProtoType/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Joo-ProtoType/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Joo-ProtoType/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -176,6 +184,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/Joo-ProtoType/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/Joo-ProtoType/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Joo-ProtoType/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/Joo-ProtoType/leetcode/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/Joo-ProtoType/leetcode/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Joo-ProtoType/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Joo-ProtoType/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -223,6 +232,7 @@
 | [3429-special-array-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Joo-ProtoType/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Joo-ProtoType/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -237,6 +247,7 @@
 | [3639-zero-array-transformation-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Joo-ProtoType/leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Joo-ProtoType/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Joo-ProtoType/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Joo-ProtoType/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Joo-ProtoType/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -245,6 +256,8 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Joo-ProtoType/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Joo-ProtoType/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Joo-ProtoType/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Joo-ProtoType/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -260,10 +273,12 @@
 | [0768-partition-labels](https://github.com/Joo-ProtoType/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Joo-ProtoType/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0900-reordered-power-of-2](https://github.com/Joo-ProtoType/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Joo-ProtoType/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Joo-ProtoType/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Joo-ProtoType/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Joo-ProtoType/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/Joo-ProtoType/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Joo-ProtoType/leetcode/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Joo-ProtoType/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Joo-ProtoType/leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -318,6 +333,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Joo-ProtoType/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Joo-ProtoType/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/Joo-ProtoType/leetcode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Joo-ProtoType/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Joo-ProtoType/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/Joo-ProtoType/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -396,6 +412,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/Joo-ProtoType/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Joo-ProtoType/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Joo-ProtoType/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Joo-ProtoType/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Joo-ProtoType/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Joo-ProtoType/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -412,6 +429,8 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Joo-ProtoType/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -425,6 +444,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Joo-ProtoType/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Joo-ProtoType/leetcode/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Joo-ProtoType/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0900-reordered-power-of-2](https://github.com/Joo-ProtoType/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Joo-ProtoType/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -455,6 +475,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Joo-ProtoType/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Joo-ProtoType/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2681-put-marbles-in-bags](https://github.com/Joo-ProtoType/leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Joo-ProtoType/leetcode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Joo-ProtoType/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Joo-ProtoType/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Joo-ProtoType/leetcode/tree/master/2846-robot-collisions) |
@@ -486,6 +507,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Joo-ProtoType/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Joo-ProtoType/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/Joo-ProtoType/leetcode/tree/master/1304-longest-happy-string) |
+| [1448-maximum-69-number](https://github.com/Joo-ProtoType/leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Joo-ProtoType/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Joo-ProtoType/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Joo-ProtoType/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -511,6 +533,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Joo-ProtoType/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Joo-ProtoType/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/Joo-ProtoType/leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Joo-ProtoType/leetcode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Joo-ProtoType/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Joo-ProtoType/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Joo-ProtoType/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -573,22 +596,31 @@
 | [3447-clear-digits](https://github.com/Joo-ProtoType/leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Joo-ProtoType/leetcode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Joo-ProtoType/leetcode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/Joo-ProtoType/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Joo-ProtoType/leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Joo-ProtoType/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Joo-ProtoType/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Joo-ProtoType/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Joo-ProtoType/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Joo-ProtoType/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Joo-ProtoType/leetcode/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/Joo-ProtoType/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Joo-ProtoType/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/Joo-ProtoType/leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Joo-ProtoType/leetcode/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0900-reordered-power-of-2](https://github.com/Joo-ProtoType/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1240-stone-game-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Joo-ProtoType/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Joo-ProtoType/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/Joo-ProtoType/leetcode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Joo-ProtoType/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Joo-ProtoType/leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Joo-ProtoType/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -602,6 +634,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Joo-ProtoType/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Joo-ProtoType/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Joo-ProtoType/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Joo-ProtoType/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Joo-ProtoType/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Joo-ProtoType/leetcode/tree/master/2645-pass-the-pillow) |
@@ -629,7 +662,10 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Joo-ProtoType/leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Joo-ProtoType/leetcode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/Joo-ProtoType/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Joo-ProtoType/leetcode/tree/master/0342-power-of-four) |
 | [1197-parsing-a-boolean-expression](https://github.com/Joo-ProtoType/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Joo-ProtoType/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Joo-ProtoType/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -708,6 +744,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Joo-ProtoType/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Joo-ProtoType/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Joo-ProtoType/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Joo-ProtoType/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Joo-ProtoType/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Joo-ProtoType/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Joo-ProtoType/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -763,6 +800,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Joo-ProtoType/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Joo-ProtoType/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Joo-ProtoType/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Joo-ProtoType/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Joo-ProtoType/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/Joo-ProtoType/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Joo-ProtoType/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -883,6 +921,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Joo-ProtoType/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Joo-ProtoType/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Joo-ProtoType/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Joo-ProtoType/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Joo-ProtoType/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/Joo-ProtoType/leetcode/tree/master/1876-map-of-highest-peak) |
@@ -901,8 +940,10 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Joo-ProtoType/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Joo-ProtoType/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Graph
 |  |
 | ------- |
@@ -1007,6 +1048,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Joo-ProtoType/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Joo-ProtoType/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Joo-ProtoType/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/0948-sort-an-array) |
 | [1160-letter-tile-possibilities](https://github.com/Joo-ProtoType/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -1039,6 +1081,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Joo-ProtoType/leetcode/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/Joo-ProtoType/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Joo-ProtoType/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -1047,8 +1090,11 @@
 | [0664-strange-printer](https://github.com/Joo-ProtoType/leetcode/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Joo-ProtoType/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/Joo-ProtoType/leetcode/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/Joo-ProtoType/leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Joo-ProtoType/leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Joo-ProtoType/leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Joo-ProtoType/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Joo-ProtoType/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Joo-ProtoType/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Joo-ProtoType/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/Joo-ProtoType/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -1057,6 +1103,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Joo-ProtoType/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Joo-ProtoType/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Joo-ProtoType/leetcode/tree/master/1511-count-number-of-teams) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Joo-ProtoType/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Joo-ProtoType/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Joo-ProtoType/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Joo-ProtoType/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -1078,6 +1125,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Joo-ProtoType/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Joo-ProtoType/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Joo-ProtoType/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -1088,6 +1136,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Joo-ProtoType/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Joo-ProtoType/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1153,10 +1202,13 @@
 | [0567-permutation-in-string](https://github.com/Joo-ProtoType/leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Joo-ProtoType/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Joo-ProtoType/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0867-new-21-game](https://github.com/Joo-ProtoType/leetcode/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Joo-ProtoType/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0940-fruit-into-baskets](https://github.com/Joo-ProtoType/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Joo-ProtoType/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Joo-ProtoType/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Joo-ProtoType/leetcode/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Joo-ProtoType/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Joo-ProtoType/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Joo-ProtoType/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -1225,6 +1277,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/Joo-ProtoType/leetcode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/Joo-ProtoType/leetcode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/Joo-ProtoType/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Joo-ProtoType/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Joo-ProtoType/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -1252,11 +1305,13 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Joo-ProtoType/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Joo-ProtoType/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Joo-ProtoType/leetcode/tree/master/2145-grid-game) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Joo-ProtoType/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Joo-ProtoType/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Joo-ProtoType/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Joo-ProtoType/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Joo-ProtoType/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2529-range-product-queries-of-powers](https://github.com/Joo-ProtoType/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Joo-ProtoType/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Joo-ProtoType/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3427-special-array-ii) |
@@ -1274,7 +1329,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Joo-ProtoType/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Joo-ProtoType/leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Joo-ProtoType/leetcode/tree/master/0476-number-complement) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Joo-ProtoType/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Joo-ProtoType/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Joo-ProtoType/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Joo-ProtoType/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1290,6 +1348,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Joo-ProtoType/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Joo-ProtoType/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/Joo-ProtoType/leetcode/tree/master/2509-minimize-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/Joo-ProtoType/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Joo-ProtoType/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Joo-ProtoType/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Joo-ProtoType/leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -1353,6 +1412,8 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Joo-ProtoType/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Joo-ProtoType/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Joo-ProtoType/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1361,6 +1422,8 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Joo-ProtoType/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Joo-ProtoType/leetcode/tree/master/2868-continuous-subarrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Joo-ProtoType/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1371,12 +1434,14 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Joo-ProtoType/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Joo-ProtoType/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Joo-ProtoType/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Joo-ProtoType/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Joo-ProtoType/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Joo-ProtoType/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Joo-ProtoType/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Joo-ProtoType/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Joo-ProtoType/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Joo-ProtoType/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Joo-ProtoType/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1416,4 +1481,9 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Joo-ProtoType/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Joo-ProtoType/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Joo-ProtoType/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Joo-ProtoType/leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Joo-ProtoType/leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->

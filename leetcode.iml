@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/0001-two-sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0002-add-two-numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0004-median-of-two-sorted-arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0013-roman-to-integer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0017-letter-combinations-of-a-phone-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0020-valid-parentheses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0033-search-in-rotated-sorted-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0034-find-first-and-last-position-of-element-in-sorted-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0062-unique-paths" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0070-climbing-stairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0074-search-a-2d-matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0081-search-in-rotated-sorted-array-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0092-reverse-linked-list-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0094-binary-tree-inorder-traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0118-pascals-triangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0119-pascals-triangle-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0138-copy-list-with-random-pointer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0168-excel-sheet-column-title" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0206-reverse-linked-list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0215-kth-largest-element-in-an-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0229-majority-element-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0258-add-digits" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0287-find-the-duplicate-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0326-power-of-three" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0338-counting-bits" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0342-power-of-four" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0343-integer-break" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0377-combination-sum-iv" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0383-ransom-note" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0389-find-the-difference" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0392-is-subsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0456-132-pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0542-01-matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0557-reverse-words-in-a-string-iii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0606-construct-string-from-binary-tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0704-binary-search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0725-split-linked-list-in-parts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0745-find-smallest-letter-greater-than-target" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0747-min-cost-climbing-stairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0778-reorganize-string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0792-binary-search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0817-design-hashmap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0869-reordered-power-of-2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0874-backspace-string-compare" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0932-monotonic-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0941-sort-array-by-parity" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0967-numbers-with-same-consecutive-differences" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1129-longest-string-chain" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1185-find-in-mountain-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1407-group-the-people-given-the-group-size-they-belong-to" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1431-kids-with-the-greatest-number-of-candies" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1463-the-k-weakest-rows-in-a-matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1539-kth-missing-positive-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1572-matrix-diagonal-sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1635-number-of-good-pairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1776-minimum-operations-to-reduce-x-to-zero" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2334-number-of-flowers-in-full-bloom" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2755-extra-characters-in-a-string" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
