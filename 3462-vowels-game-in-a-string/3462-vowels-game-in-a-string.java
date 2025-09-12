@@ -6,10 +6,10 @@ class Solution {
         for(int i = 0; i < len; i++) {
             String cur = "" + s.charAt(i);
             if(vowel.contains(cur)) {
-                count++;
+                return true;
             }
         }
 
-        return count != 0;
+        return false;
     }
 }
