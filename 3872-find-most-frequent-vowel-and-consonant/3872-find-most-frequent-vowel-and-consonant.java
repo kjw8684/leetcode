@@ -2,34 +2,36 @@ class Solution {
     public int maxFreqSum(String s) {
         int len = s.length();
         int[] alpha = new int[26];
-        int[] vowel = new int[5];
 
         for(int i = 0; i < len; i++) {
-            int cur = s.charAt(i) - 'a';
-
-            if(cur == 0) {
-                vowel[0]++;
-            }
-            else if(cur == 4) {
-                vowel[1]++;
-            }
-            else if(cur == 8) {
-                vowel[2]++;
-            }
-            else if(cur == 14) {
-                vowel[3]++;
-            }
-            else if(cur == 20) {
-                vowel[4]++;
-            }
-            else {
-                alpha[cur]++;
-            }
+            alpha[s.charAt(i) - 'a']++;
         }
 
-        Arrays.sort(vowel);
+        int max = 0;
+
+        if(max < alpha[0]) {
+            max = alpha[0];
+        }
+        alpha[0] = 0;
+        if(max < alpha[4]) {
+            max = alpha[4];
+        }
+        alpha[4] = 0;
+        if(max < alpha[8]) {
+            max = alpha[8];
+        }
+        alpha[8] = 0;
+        if(max < alpha[14]) {
+            max = alpha[14];
+        }
+        alpha[14] = 0;
+        if(max < alpha[20]) {
+            max = alpha[20];
+        }
+        alpha[20] = 0;
+
         Arrays.sort(alpha);
 
-        return vowel[4] + alpha[25];
+        return max + alpha[25];
     }
 }
