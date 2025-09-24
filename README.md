@@ -285,6 +285,7 @@
 | [0036-valid-sudoku](https://github.com/Joo-ProtoType/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Joo-ProtoType/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Joo-ProtoType/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Joo-ProtoType/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0264-ugly-number-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/Joo-ProtoType/leetcode/tree/master/0432-all-oone-data-structure) |
@@ -641,6 +642,7 @@
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Joo-ProtoType/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Joo-ProtoType/leetcode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Joo-ProtoType/leetcode/tree/master/0273-integer-to-english-words) |
@@ -740,6 +742,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Joo-ProtoType/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Joo-ProtoType/leetcode/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/Joo-ProtoType/leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Joo-ProtoType/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Joo-ProtoType/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Joo-ProtoType/leetcode/tree/master/0214-shortest-palindrome) |
 | [0273-integer-to-english-words](https://github.com/Joo-ProtoType/leetcode/tree/master/0273-integer-to-english-words) |
