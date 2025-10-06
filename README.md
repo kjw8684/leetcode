@@ -33,6 +33,7 @@
 | [0731-my-calendar-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Joo-ProtoType/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Joo-ProtoType/leetcode/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Joo-ProtoType/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Joo-ProtoType/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Joo-ProtoType/leetcode/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Joo-ProtoType/leetcode/tree/master/0854-making-a-large-island) |
@@ -442,6 +443,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Joo-ProtoType/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Joo-ProtoType/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/0731-my-calendar-ii) |
+| [0794-swim-in-rising-water](https://github.com/Joo-ProtoType/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Joo-ProtoType/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Joo-ProtoType/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Joo-ProtoType/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -961,6 +963,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Joo-ProtoType/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Joo-ProtoType/leetcode/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Joo-ProtoType/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/Joo-ProtoType/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Joo-ProtoType/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Joo-ProtoType/leetcode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Joo-ProtoType/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1002,6 +1005,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Joo-ProtoType/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Joo-ProtoType/leetcode/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/Joo-ProtoType/leetcode/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Joo-ProtoType/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Joo-ProtoType/leetcode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Joo-ProtoType/leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -1094,6 +1098,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Joo-ProtoType/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Joo-ProtoType/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/Joo-ProtoType/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Joo-ProtoType/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/Joo-ProtoType/leetcode/tree/master/1304-longest-happy-string) |
@@ -1264,6 +1269,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Joo-ProtoType/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Joo-ProtoType/leetcode/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Joo-ProtoType/leetcode/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Joo-ProtoType/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Joo-ProtoType/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Joo-ProtoType/leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Joo-ProtoType/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -1341,6 +1347,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Joo-ProtoType/leetcode/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Joo-ProtoType/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Joo-ProtoType/leetcode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Joo-ProtoType/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Joo-ProtoType/leetcode/tree/master/0999-regions-cut-by-slashes) |
