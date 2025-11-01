@@ -10,32 +10,29 @@
  */
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
-        Set<Integer> delete = new HashSet<>();
-        int len = nums.length;
+        Set<Integer> set = new HashSet<>();
 
-        for(int i = 0; i < len; i++) {
-            delete.add(nums[i]);
+        for(int num : nums) {
+            set.add(num);
         }
 
-        while(head != null) {
-            if(!delete.contains(head.val)) {
-                break;
-            }
-            head = head.next;
+        ListNode answer = head;
+
+        while(answer != null && set.contains(answer.val)) {
+            answer = answer.next;
         }
-        search(delete, head);
 
-        return head;
-    }
+        ListNode start = answer;
 
-    public void search(Set<Integer> delete, ListNode head) {
-        while(head.next != null) {
-            if(delete.contains(head.next.val)) {
-                head.next = head.next.next;
+        while(start.next != null) {
+            if(set.contains(start.next.val)) {
+                start.next = start.next.next;
             }
             else {
-                head = head.next;
+                start = start.next;
             }
         }
+
+        return answer;
     }
 }
