@@ -15,10 +15,10 @@ class Solution {
             alpha[i] = -1;
         }
         
-        for(int i = 0; i < len - 1; i++) {
-            alpha[s.charAt(i) - 'a'] = i;
+        for(int i = 1; i < len; i++) {
+            alpha[s.charAt(i - 1) - 'a'] = i - 1;
             for(int j = 0; j < 26; j++) {
-                check[i + 1][j] = alpha[j];
+                check[i][j] = alpha[j];
             }
         }
 
