@@ -1,25 +1,40 @@
 class Solution {
     public int countPalindromicSubsequence(String s) {
-        int len = s.length();
-        int[] R = new int[26];
-        for (int i = 0; i < len; i++) {
-            R[s.charAt(i) - 'a']++;
-        }
+        int len = s.length(), count = 0;
+        int[][] check = new int[len][26];
+        int[] alpha = new int[26];
+        boolean[] dup = new boolean[26];
 
-        int[] L = new int[26];
-        HashSet<Integer> set = new HashSet<>();
-        int cur = 0;
-        for (int i = 0; i < len; i++) {
-            cur = s.charAt(i) - 'a';
-            R[cur]--;
-            for (int j = 0; j < 26; j++) {
-                if (L[j] > 0 && R[j] > 0) {
-                    set.add(26 * cur + j);
-                }
+        for(int i = 0; i < len; i++) {
+            for(int j = 0; j < 26; j++) {
+                check[i][j] = -1;
             }
-            L[cur]++;
         }
 
-        return set.size();
+        for(int i = 0; i < 26; i++) {
+            alpha[i] = -1;
+        }
+        
+        for(int i = 0; i < len - 1; i++) {
+            alpha[s.charAt(i) - 'a'] = i;
+            for(int j = 0; j < 26; j++) {
+                check[i + 1][j] = alpha[j];
+            }
+        }
+
+        for(int i = len - 1; i >= 0; i--) {
+            int curi = s.charAt(i) - 'a';
+            if(!dup[curi]) {
+                for(int j = 0; j < 26; j++) {
+                    if(check[i][j] != -1 && check[check[i][j]][curi] != -1) {
+                        count++;
+                    }
+                }
+                
+                dup[curi] = true;
+            }   
+        }
+
+        return count;
     }
 }
