@@ -1,21 +1,18 @@
 class Solution {
-    static final int MOD = 1_000_000_007;
 
-    public int countPermutations(int[] comp) {
-        int n = comp.length;
-        int first = comp[0];
-
-        // Check that first is the unique minimum
+    public int countPermutations(int[] complexity) {
+        int n = complexity.length;
         for (int i = 1; i < n; i++) {
-            if (comp[i] <= first) return 0;
+            if (complexity[i] <= complexity[0]) {
+                return 0;
+            }
         }
 
-        // Compute factorial (n-1)!
-        long fact = 1;
+        int ans = 1;
+        int mod = 1000000007;
         for (int i = 2; i < n; i++) {
-            fact = (fact * i) % MOD;
+            ans = (int) (((long) ans * i) % mod);
         }
-
-        return (int) fact;
+        return ans;
     }
 }
