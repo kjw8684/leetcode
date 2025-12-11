@@ -1,5 +1,4 @@
 class Solution {
-
     public int countPermutations(int[] complexity) {
         int n = complexity.length;
         for (int i = 1; i < n; i++) {
