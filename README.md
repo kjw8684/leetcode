@@ -593,6 +593,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Joo-ProtoType/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Joo-ProtoType/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2092-find-all-people-with-secret](https://github.com/Joo-ProtoType/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Joo-ProtoType/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Joo-ProtoType/leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -1143,6 +1144,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Joo-ProtoType/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Joo-ProtoType/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2035-count-sub-islands](https://github.com/Joo-ProtoType/leetcode/tree/master/2035-count-sub-islands) |
+| [2092-find-all-people-with-secret](https://github.com/Joo-ProtoType/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Joo-ProtoType/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Joo-ProtoType/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Joo-ProtoType/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -1226,6 +1228,7 @@
 | [1558-course-schedule-iv](https://github.com/Joo-ProtoType/leetcode/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Joo-ProtoType/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Joo-ProtoType/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2092-find-all-people-with-secret](https://github.com/Joo-ProtoType/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Joo-ProtoType/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Joo-ProtoType/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Joo-ProtoType/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1478,6 +1481,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Joo-ProtoType/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/Joo-ProtoType/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Joo-ProtoType/leetcode/tree/master/2035-count-sub-islands) |
+| [2092-find-all-people-with-secret](https://github.com/Joo-ProtoType/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Joo-ProtoType/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Joo-ProtoType/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Joo-ProtoType/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1557,6 +1561,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Joo-ProtoType/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Joo-ProtoType/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/Joo-ProtoType/leetcode/tree/master/2035-count-sub-islands) |
+| [2092-find-all-people-with-secret](https://github.com/Joo-ProtoType/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Joo-ProtoType/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Joo-ProtoType/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
