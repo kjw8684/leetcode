@@ -1,19 +1,15 @@
 class Solution {
     public long maximumHappinessSum(int[] happiness, int k) {
-        long answer = 0;
-        
-        Integer[] happy = Arrays.stream(happiness).boxed().toArray(Integer[]::new);
-        Arrays.sort(happy, Collections.reverseOrder());
-        
-        for(int i = 0; i < k; i++) {
-            if(happy[i] - i > 0) {
-                answer += happy[i] - i;
+        Arrays.sort(happiness);
+        int count = 0;
+        long res = 0;
+        for(int i=happiness.length-1;i>=happiness.length-k;i--){
+            if(happiness[i] + count > 0){
+                res+=(long)(happiness[i] + count);
             }
-            else {
-                break;
-            }
+            count--;
         }
-        
-        return answer;
+
+        return res;
     }
 }
