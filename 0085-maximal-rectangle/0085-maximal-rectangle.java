@@ -1,46 +1,38 @@
 class Solution {
+    int x_len, y_len;
     public int maximalRectangle(char[][] matrix) {
-        int row = matrix.length, col = matrix[0].length;
-        int[][] dp = new int[row][col];
-
-        for(int i = 0; i < row; i++) {
-            int count = 0;
-            for(int j = col - 1; j >= 0; j--) {
+        x_len = matrix.length;
+        y_len = matrix[0].length;
+        int answer = 0;
+        
+        for(int i = 0; i < x_len; i++) {
+            if((x_len - i) * y_len < answer) {
+                break;
+            }
+            for(int j = 0; j < y_len; j++) {
+                if(matrix[i][j] == '1') {
+                    answer = Math.max(answer, isRectangle(matrix, i, j));
+                }
+            }
+        }
+        
+        return answer;
+    }
+    
+    public int isRectangle(char[][] matrix, int x, int y) {
+        int max = 0, depth = y_len;
+        for(int i = x; i < x_len; i++) {
+            for(int j = y; j < depth; j++) {
                 if(matrix[i][j] == '0') {
-                    count = 0;
+                    depth = j;
+                    break;
                 }
-                else {
-                    count++;
-                }
-
-                dp[i][j] = count;
             }
+            max = Math.max(max, (i - x + 1) * (depth - y));
         }
-
-        for(int i = 0; i < row; i++) {
-            int count = 0;
-            for(int j = 0; j < col; j++) {
-                System.out.print(dp[i][j] + " ");
-            }
-            System.out.println();
-        }
-        int max = 0;
-
-        for(int i = 0; i < col; i++) {
-            int before = 0, count = 1;
-            for(int j = 0; j < row; j++) {
-                if(before != 0) {
-                    before = Math.min(before, dp[j][i]);
-                    count++;
-                }
-                else {
-                    before = dp[j][i];
-                    count = 1;
-                }
-                max = Math.max(max, before * count);
-            }
-        }
-
+        
+        
+        
         return max;
     }
 }
