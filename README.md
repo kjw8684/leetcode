@@ -264,6 +264,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/Joo-ProtoType/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Joo-ProtoType/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/Joo-ProtoType/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Joo-ProtoType/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Joo-ProtoType/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Joo-ProtoType/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -654,6 +655,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/Joo-ProtoType/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Joo-ProtoType/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Joo-ProtoType/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Joo-ProtoType/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Joo-ProtoType/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Joo-ProtoType/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
