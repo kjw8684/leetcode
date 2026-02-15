@@ -815,6 +815,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Joo-ProtoType/leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Joo-ProtoType/leetcode/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Joo-ProtoType/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Joo-ProtoType/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -868,6 +869,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Joo-ProtoType/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Joo-ProtoType/leetcode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Joo-ProtoType/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Joo-ProtoType/leetcode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/0264-ugly-number-ii) |
@@ -1000,6 +1002,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Joo-ProtoType/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Joo-ProtoType/leetcode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/Joo-ProtoType/leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/Joo-ProtoType/leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Joo-ProtoType/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Joo-ProtoType/leetcode/tree/master/0179-largest-number) |
@@ -1840,6 +1843,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Joo-ProtoType/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Joo-ProtoType/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Joo-ProtoType/leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Joo-ProtoType/leetcode/tree/master/0476-number-complement) |
