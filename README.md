@@ -1393,6 +1393,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Joo-ProtoType/leetcode/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Joo-ProtoType/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/0948-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Joo-ProtoType/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -1844,6 +1845,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Joo-ProtoType/leetcode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Joo-ProtoType/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Joo-ProtoType/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Joo-ProtoType/leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Joo-ProtoType/leetcode/tree/master/0476-number-complement) |
