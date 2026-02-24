@@ -1190,6 +1190,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Joo-ProtoType/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Joo-ProtoType/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Joo-ProtoType/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Joo-ProtoType/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Joo-ProtoType/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Joo-ProtoType/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Joo-ProtoType/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1225,6 +1226,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Joo-ProtoType/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Joo-ProtoType/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Joo-ProtoType/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Joo-ProtoType/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Joo-ProtoType/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Joo-ProtoType/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Joo-ProtoType/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1258,6 +1260,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Joo-ProtoType/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Joo-ProtoType/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/Joo-ProtoType/leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Joo-ProtoType/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Joo-ProtoType/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Joo-ProtoType/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Joo-ProtoType/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
