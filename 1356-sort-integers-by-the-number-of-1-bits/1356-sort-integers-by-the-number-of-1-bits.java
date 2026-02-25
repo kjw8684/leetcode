@@ -11,7 +11,8 @@ class Solution {
         int tempval = 0, tempcount = 0;
         for(int i = 0; i < len; i++) {
             for(int j = i + 1; j < len; j++) {
-                if(bit[1][i] > bit[1][j] || (bit[1][i] == bit[1][j] && bit[0][i] > bit[0][j])) {
+                boolean changeCheck = bit[1][i] > bit[1][j] || (bit[1][i] == bit[1][j] && bit[0][i] > bit[0][j]);
+                if(changeCheck) {
                     tempval = bit[0][i];
                     tempcount = bit[1][i];
                     bit[0][i] = bit[0][j];
