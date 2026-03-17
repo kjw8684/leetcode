@@ -128,6 +128,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Joo-ProtoType/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Joo-ProtoType/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Joo-ProtoType/leetcode/tree/master/1720-crawler-log-folder) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Joo-ProtoType/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Joo-ProtoType/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Joo-ProtoType/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/Joo-ProtoType/leetcode/tree/master/1755-defuse-the-bomb) |
@@ -669,6 +670,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Joo-ProtoType/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Joo-ProtoType/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Joo-ProtoType/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Joo-ProtoType/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Joo-ProtoType/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Joo-ProtoType/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -765,6 +767,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Joo-ProtoType/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Joo-ProtoType/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Joo-ProtoType/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Joo-ProtoType/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Joo-ProtoType/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Joo-ProtoType/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Joo-ProtoType/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -1359,6 +1362,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Joo-ProtoType/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Joo-ProtoType/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Joo-ProtoType/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Joo-ProtoType/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/Joo-ProtoType/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Joo-ProtoType/leetcode/tree/master/1895-largest-magic-square) |
