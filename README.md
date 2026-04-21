@@ -130,6 +130,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Joo-ProtoType/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Joo-ProtoType/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Joo-ProtoType/leetcode/tree/master/1720-crawler-log-folder) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Joo-ProtoType/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Joo-ProtoType/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Joo-ProtoType/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Joo-ProtoType/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1375,6 +1376,7 @@
 | [1558-course-schedule-iv](https://github.com/Joo-ProtoType/leetcode/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Joo-ProtoType/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Joo-ProtoType/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Joo-ProtoType/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Joo-ProtoType/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Joo-ProtoType/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/Joo-ProtoType/leetcode/tree/master/2035-count-sub-islands) |
@@ -2255,6 +2257,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Joo-ProtoType/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Joo-ProtoType/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Joo-ProtoType/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Joo-ProtoType/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
