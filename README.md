@@ -18,6 +18,7 @@
 | [0179-largest-number](https://github.com/Joo-ProtoType/leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Joo-ProtoType/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/Joo-ProtoType/leetcode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Joo-ProtoType/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Joo-ProtoType/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -967,6 +968,7 @@
 | [0326-power-of-three](https://github.com/Joo-ProtoType/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Joo-ProtoType/leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Joo-ProtoType/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/Joo-ProtoType/leetcode/tree/master/0396-rotate-function) |
 | [0539-minimum-time-difference](https://github.com/Joo-ProtoType/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Joo-ProtoType/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Joo-ProtoType/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1674,6 +1676,7 @@
 | [0120-triangle](https://github.com/Joo-ProtoType/leetcode/tree/master/0120-triangle) |
 | [0264-ugly-number-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/Joo-ProtoType/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/Joo-ProtoType/leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Joo-ProtoType/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Joo-ProtoType/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Joo-ProtoType/leetcode/tree/master/0494-target-sum) |
