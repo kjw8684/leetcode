@@ -589,6 +589,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Joo-ProtoType/leetcode/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/Joo-ProtoType/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Joo-ProtoType/leetcode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Joo-ProtoType/leetcode/tree/master/0165-compare-version-numbers) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -882,6 +883,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Joo-ProtoType/leetcode/tree/master/0061-rotate-list) |
 | [0432-all-oone-data-structure](https://github.com/Joo-ProtoType/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Joo-ProtoType/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Joo-ProtoType/leetcode/tree/master/0859-design-circular-deque) |
