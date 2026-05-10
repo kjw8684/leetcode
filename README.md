@@ -288,6 +288,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Joo-ProtoType/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Joo-ProtoType/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Joo-ProtoType/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2792-neighboring-bitwise-xor](https://github.com/Joo-ProtoType/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/Joo-ProtoType/leetcode/tree/master/2846-robot-collisions) |
@@ -1758,6 +1759,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/Joo-ProtoType/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Joo-ProtoType/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Joo-ProtoType/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Joo-ProtoType/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
