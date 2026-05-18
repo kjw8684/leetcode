@@ -90,6 +90,7 @@
 | [1325-path-with-maximum-probability](https://github.com/Joo-ProtoType/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Joo-ProtoType/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Joo-ProtoType/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1345-jump-game-iv](https://github.com/Joo-ProtoType/leetcode/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Joo-ProtoType/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Joo-ProtoType/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Joo-ProtoType/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -481,6 +482,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Joo-ProtoType/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Joo-ProtoType/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1345-jump-game-iv](https://github.com/Joo-ProtoType/leetcode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Joo-ProtoType/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Joo-ProtoType/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Joo-ProtoType/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1840,6 +1842,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Joo-ProtoType/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Joo-ProtoType/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/Joo-ProtoType/leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Joo-ProtoType/leetcode/tree/master/1345-jump-game-iv) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Joo-ProtoType/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Joo-ProtoType/leetcode/tree/master/1396-count-servers-that-communicate) |
