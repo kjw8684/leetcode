@@ -203,6 +203,7 @@
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Joo-ProtoType/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2155-find-missing-observations](https://github.com/Joo-ProtoType/leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Joo-ProtoType/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Joo-ProtoType/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2169-simple-bank-system](https://github.com/Joo-ProtoType/leetcode/tree/master/2169-simple-bank-system) |
@@ -648,6 +649,7 @@
 | [1923-sentence-similarity-iii](https://github.com/Joo-ProtoType/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Joo-ProtoType/leetcode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Joo-ProtoType/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Joo-ProtoType/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/Joo-ProtoType/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Joo-ProtoType/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -984,6 +986,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Joo-ProtoType/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Joo-ProtoType/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/Joo-ProtoType/leetcode/tree/master/2155-find-missing-observations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Joo-ProtoType/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Joo-ProtoType/leetcode/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/Joo-ProtoType/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/Joo-ProtoType/leetcode/tree/master/2232-adding-spaces-to-a-string) |
