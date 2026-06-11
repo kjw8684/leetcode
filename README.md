@@ -1131,6 +1131,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Joo-ProtoType/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/Joo-ProtoType/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Joo-ProtoType/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Joo-ProtoType/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1422,6 +1423,7 @@
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Joo-ProtoType/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Joo-ProtoType/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Joo-ProtoType/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Joo-ProtoType/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1506,6 +1508,7 @@
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Joo-ProtoType/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Joo-ProtoType/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Joo-ProtoType/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Joo-ProtoType/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
