@@ -444,6 +444,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Joo-ProtoType/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -621,6 +622,7 @@
 | [3714-longest-balanced-substring-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1681,6 +1683,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1742,6 +1745,7 @@
 | ------- |
 | [0948-sort-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1792,6 +1796,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Joo-ProtoType/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Joo-ProtoType/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -2172,6 +2177,7 @@
 | [3714-longest-balanced-substring-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Joo-ProtoType/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Joo-ProtoType/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -2309,6 +2315,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Joo-ProtoType/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Joo-ProtoType/leetcode/tree/master/3791-fruits-into-baskets-iii) |
