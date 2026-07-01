@@ -1,72 +1,110 @@
 class Solution {
+
+    // Directions for moving to neighboring cells: right, left, down, up
+    final int[][] dir = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+
     public int maximumSafenessFactor(List<List<Integer>> grid) {
-        int n=grid.size();
-        if(grid.get(0).get(0)==1 || grid.get(n-1).get(n-1)==1) return 0;
-        int cost[][]=new int[n][n];
-        for(var v:cost) Arrays.fill(v, Integer.MAX_VALUE);
-        bfs(cost, grid, n);
-        int l=1,r=n*n;
-        int ans=0;
-        while(l<=r){
-            int mid=(r-l)/2 + l;
-            if(possible(0, 0, cost, mid, n, new boolean[n][n])){
-                ans=mid;
-                l=mid+1;
-            }
-            else{
-                r=mid-1;
-            }
-        }
-        return ans;
-    }
-    public boolean possible(int i, int j, int cost[][], int mid, int n, boolean visited[][]){
-        if(i<0 || j<0 || i>=n || j>=n) return false;
-        if(cost[i][j]==Integer.MAX_VALUE || cost[i][j]<mid) return false;
-        if(i==n-1 && j==n-1) return true;
-        if(visited[i][j]) return false;
-        visited[i][j]=true;
-        int dir[][]={{1,0},{0,1},{-1,0},{0,-1}};
-        boolean ans=false;
-        for(var v:dir){
-            int ii=i+v[0];
-            int jj=j+v[1];
-            ans|=possible(ii, jj, cost, mid, n, visited);
-            if(ans) return true;
-        }
-        return ans;
-    }
-    public void bfs(int cost[][], List<List<Integer>> grid, int n){
-        Queue<int[]> q=new LinkedList<>();
-        boolean visited[][]=new boolean[n][n];
-        for(int i=0;i<grid.size();i++){
-            for(int j=0;j<grid.size();j++){
-                if(grid.get(i).get(j)==1){
-                    q.add(new int[]{i,j});
-                    visited[i][j]=true;
+        int n = grid.size();
+        int[][] mat = new int[n][n];
+        Queue<int[]> multiSourceQueue = new LinkedList<>();
+
+        // To make modifications and navigation easier, the grid is converted into a 2-d array.
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid.get(i).get(j) == 1) {
+                    // Push thief coordinates to the queue
+                    multiSourceQueue.add(new int[]{i, j});
+                    // Mark thief cell with 0
+                    mat[i][j] = 0;
+                } else {
+                    // Mark empty cell with -1
+                    mat[i][j] = -1;
                 }
             }
         }
-        int level=1;
-        int dir[][]={{1,0},{0,1},{-1,0},{0,-1}};
-        while(!q.isEmpty()){
-            int len=q.size();
-            for(int i=0;i<len;i++){
-                var v=q.poll();
-                var temp=v;
-                for(var val:dir){
-                    int ii=temp[0]+val[0];
-                    int jj=temp[1]+val[1];
-                    if(isValid(ii, jj, n) && !visited[ii][jj] ){
-                        q.add(new int[]{ii,jj});
-                        cost[ii][jj]=Math.min(cost[ii][jj], level);
-                        visited[ii][jj] = true;
+
+        // Calculate safeness factor for each cell using BFS
+        while (!multiSourceQueue.isEmpty()) {
+            int size = multiSourceQueue.size();
+            while (size-- > 0) {
+                int[] curr = multiSourceQueue.poll();
+                // Check neighboring cells
+                for (int[] d : dir) {
+                    int di = curr[0] + d[0];
+                    int dj = curr[1] + d[1];
+                    int val = mat[curr[0]][curr[1]];
+                    // Check if the neighboring cell is valid and unvisited
+                    if (isValidCell(mat, di, dj) && mat[di][dj] == -1) {
+                        // Update safeness factor and push to the queue
+                        mat[di][dj] = val + 1;
+                        multiSourceQueue.add(new int[]{di, dj});
                     }
                 }
             }
-            level++;
         }
+
+        // Binary search for maximum safeness factor
+        int start = 0;
+        int end = 0;
+        int res = -1;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                // Set end as the maximum safeness factor possible
+                end = Math.max(end, mat[i][j]);
+            }
+        }
+
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+            if (isValidSafeness(mat, mid)) {
+                // Store valid safeness and search for larger ones 
+                res = mid; 
+                start = mid + 1;
+            } else {
+                end = mid - 1;
+            }
+        }
+        return res;
     }
-    public boolean isValid(int i, int j, int n){
-        return (i>=0 && j>=0 && i<n && j<n);
+
+    // Check if a path exists with given minimum safeness value
+    private boolean isValidSafeness(int[][] grid, int minSafeness) {
+        int n = grid.length;
+
+        // Check if the source and destination cells satisfy minimum safeness
+        if (grid[0][0] < minSafeness || grid[n - 1][n - 1] < minSafeness) {
+            return false;
+        }
+
+        Queue<int[]> traversalQueue = new LinkedList<>();
+        traversalQueue.add(new int[]{0, 0});
+        boolean[][] visited = new boolean[n][n];
+        visited[0][0] = true;
+
+        // Breadth-first search to find a valid path
+        while (!traversalQueue.isEmpty()) {
+            int[] curr = traversalQueue.poll();
+            if (curr[0] == n - 1 && curr[1] == n - 1) {
+                return true; // Valid path found
+            }
+            // Check neighboring cells
+            for (int[] d : dir) {
+                int di = curr[0] + d[0];
+                int dj = curr[1] + d[1];
+                // Check if the neighboring cell is valid, unvisited and satisfying minimum safeness
+                if (isValidCell(grid, di, dj) && !visited[di][dj] && grid[di][dj] >= minSafeness) {
+                    visited[di][dj] = true;
+                    traversalQueue.add(new int[]{di, dj});
+                }
+            }
+        }
+
+        return false; // No valid path found
+    }
+
+    // Check if a given cell lies within the grid
+    private boolean isValidCell(int[][] mat, int i, int j) {
+        int n = mat.length;
+        return i >= 0 && j >= 0 && i < n && j < n;
     }
 }
