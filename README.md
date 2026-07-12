@@ -91,6 +91,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Joo-ProtoType/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Joo-ProtoType/leetcode/tree/master/1306-jump-game-iii) |
 | [1325-path-with-maximum-probability](https://github.com/Joo-ProtoType/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1331-rank-transform-of-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Joo-ProtoType/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Joo-ProtoType/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1340-jump-game-v](https://github.com/Joo-ProtoType/leetcode/tree/master/1340-jump-game-v) |
@@ -518,6 +519,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Joo-ProtoType/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Joo-ProtoType/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1331-rank-transform-of-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Joo-ProtoType/leetcode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Joo-ProtoType/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Joo-ProtoType/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -797,6 +799,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Joo-ProtoType/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/Joo-ProtoType/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Joo-ProtoType/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Joo-ProtoType/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1340-jump-game-v](https://github.com/Joo-ProtoType/leetcode/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Joo-ProtoType/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
