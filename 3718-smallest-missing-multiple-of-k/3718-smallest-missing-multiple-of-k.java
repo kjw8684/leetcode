@@ -1,13 +1,18 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
         int cur = 1;
-        Arrays.sort(nums);
 
-        for(int num : nums) {
-            if(k * cur == num) {
-                cur++;
+        while(true) {
+            boolean check = false;
+            for(int num : nums) {
+                if(k * cur == num) {
+                    cur++;
+                    check = true;
+                    break;
+                }
             }
-            else if(k * cur < num) {
+
+            if(!check) {
                 break;
             }
         }
