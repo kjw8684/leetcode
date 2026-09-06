@@ -1344,6 +1344,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Joo-ProtoType/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/Joo-ProtoType/leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Joo-ProtoType/leetcode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Joo-ProtoType/leetcode/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/Joo-ProtoType/leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Joo-ProtoType/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Joo-ProtoType/leetcode/tree/master/0179-largest-number) |
@@ -1976,6 +1977,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Joo-ProtoType/leetcode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Joo-ProtoType/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Joo-ProtoType/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Joo-ProtoType/leetcode/tree/master/0120-triangle) |
 | [0264-ugly-number-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/0264-ugly-number-ii) |
