@@ -1,18 +1,20 @@
 class Solution {
     public int maxDepth(String s) {
-        int len = s.length(), answer = 0, max = 0;
-        
+        int len = s.length(), count = 0, max = 0;
+
         for(int i = 0; i < len; i++) {
-            if(s.charAt(i) == '(') {
-                max++;
-                if (answer < max) {answer = max;}
+            char cur = s.charAt(i);
+
+            if(cur == '(') {
+                count++;
             }
-            
-            if(s.charAt(i) == ')') {
-                max--;
+            else if(cur == ')') {
+                count--;
             }
+
+            max = Math.max(max, count);
         }
-        
-        return answer;
+
+        return max;
     }
 }
