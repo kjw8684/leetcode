@@ -4,9 +4,7 @@ class Solution {
         int[] answer = new int[len];
 
         for(int i = 0; i < len; i++) {
-            char cur = seq.charAt(i);
-
-            if(cur == '(') {
+            if(seq.charAt(i) == '(') {
                 before = (before + 1) % 2;
                 answer[i] = before;
             }
