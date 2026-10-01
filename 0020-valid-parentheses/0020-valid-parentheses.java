@@ -1,31 +1,50 @@
 class Solution {
-    public boolean isValid(String s)    {
-        ArrayList<Character> check = new ArrayList<Character>();
-        for(int i = 0; i < s.length(); i++){
-            if(s.charAt(i) == '('){
-                check.add('(');
-            }else if(s.charAt(i) == '{'){
-                check.add('{');
-            }else if(s.charAt(i) == '['){
-                check.add('[');
-            }else if(check.size() == 0){
-                return false;
-            }else if(s.charAt(i) == ')'){
-                if(check.get(check.size() - 1) == '('){
-                    check.remove(check.size() - 1);
-                }else{return false;}
-            }else if(s.charAt(i) == '}'){
-                if(check.get(check.size() - 1) == '{'){
-                    check.remove(check.size() - 1);
-                }else{return false;}
-            }else if(s.charAt(i) == ']'){
-                if(check.get(check.size() - 1) == '['){
-                    check.remove(check.size() - 1);
-                }else{return false;}
+    public boolean isValid(String s) {
+        int small = 0, middle = 0, large = 0;
+        Deque<Integer> stack = new ArrayDeque<>();
+
+        for(char cur : s.toCharArray()) {
+            if(cur == '(') {
+                stack.push(1);
+                small++;
+            }
+            else if(cur == ')') {
+                if(stack.size() == 0) {
+                    return false;
+                }
+                if(stack.pop() != 1) {
+                    return false;
+                }
+                small--;
+            }
+            else if(cur == '{') {
+                stack.push(2);
+                middle++;
+            }
+            else if(cur == '}') {
+                if(stack.size() == 0) {
+                    return false;
+                }
+                if(stack.pop() != 2) {
+                    return false;
+                }
+                middle--;
+            }
+            else if(cur == '[') {
+                stack.push(3);
+                large++;
+            }
+            else {
+                if(stack.size() == 0) {
+                    return false;
+                }
+                if(stack.pop() != 3) {
+                    return false;
+                }
+                large--;
             }
         }
-        if(check.size() == 0){
-            return true;
-        }else{return false;}
+
+        return small == 0 && middle == 0 && large == 0;
     }
 }
