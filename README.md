@@ -1379,6 +1379,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Joo-ProtoType/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Joo-ProtoType/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Joo-ProtoType/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Joo-ProtoType/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Joo-ProtoType/leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Joo-ProtoType/leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Joo-ProtoType/leetcode/tree/master/0115-distinct-subsequences) |
@@ -1579,6 +1580,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Joo-ProtoType/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Joo-ProtoType/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Joo-ProtoType/leetcode/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Joo-ProtoType/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/Joo-ProtoType/leetcode/tree/master/0726-number-of-atoms) |
@@ -2033,6 +2035,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Joo-ProtoType/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Joo-ProtoType/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Joo-ProtoType/leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Joo-ProtoType/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Joo-ProtoType/leetcode/tree/master/0118-pascals-triangle) |
@@ -2825,6 +2828,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Joo-ProtoType/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Joo-ProtoType/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Joo-ProtoType/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Joo-ProtoType/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Joo-ProtoType/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Joo-ProtoType/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
