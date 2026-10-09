@@ -1,21 +1,31 @@
 class Solution {
     public int minInsertions(String s) {
         int len = s.length(), count = 0, change = 0;
-        StringBuilder sb = new StringBuilder();
         boolean close = false;
 
         for(int i = 0; i < len; i++) {
             char cur = s.charAt(i);
             if(cur == '(' && !close) {
-                sb.append("(");
+                count++;
             }
             else if(cur == '(' && close) {
-                sb.append(")");
-                sb.append("(");
+                if(count > 0){
+                    count--;
+                    change++;
+                }
+                else {
+                    change += 2;
+                }
+                count++;
                 close = false;
             }
             else if(cur == ')' && close) {
-                sb.append("]");
+                if(count > 0) {
+                    count--;
+                }
+                else{
+                    change++;
+                }
                 close = false;
             }
             else {
@@ -23,24 +33,7 @@ class Solution {
             }
         }
         if(close) {
-            sb.append(")");
-        }
-
-        len = sb.length();
-
-        for(int i = 0; i < len; i++) {
-            char cur = sb.charAt(i);
-            System.out.println(cur);
-            if(cur == '(') {
-                count++;
-            }
-            else if(cur == ']' && count > 0) {
-                count--;
-            }
-            else if(cur == ']') {
-                change++;
-            }
-            else if(count > 0){
+            if(count > 0){
                 count--;
                 change++;
             }
