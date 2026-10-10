@@ -25,10 +25,6 @@ class Solution {
             }
         }
 
-        for(int i = 0; i < len; i++) {
-            System.out.println(diff[i]);
-        }
-
         while(change > 0 && same <= len && diff[0] != 0) {
             if(change >= (long)(diff[0] - diff[same]) * same) {
                 change -= (diff[0] - diff[same]) * same;
