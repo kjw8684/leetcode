@@ -1,6 +1,9 @@
 class Solution {
     public String maxSumOfSquares(int num, int sum) {
         StringBuilder sb = new StringBuilder();
+        if(num * 9 < sum) {
+            return "";
+        }
 
         for(int i = 0; i < num; i++) {
             if(sum >= 9) {
@@ -14,10 +17,6 @@ class Solution {
             else {
                 sb.append("0");
             }
-        }
-
-        if(sum > 0) {
-            return "";
         }
 
         return sb.toString();
