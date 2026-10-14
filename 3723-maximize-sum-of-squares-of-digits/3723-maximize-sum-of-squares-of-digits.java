@@ -5,19 +5,17 @@ class Solution {
             return "";
         }
 
-        for(int i = 0; i < num; i++) {
-            if(sum >= 9) {
-                sb.append("9");
-                sum -= 9;
-            }
-            else if(sum > 0) {
-                sb.append(sum);
-                sum = 0;
-            }
-            else {
-                sb.append("0");
-            }
+        if(sum >= 9) {
+            sb.repeat('9', sum / 9);
+            num -= sum / 9;
+            sum %= 9;
         }
+        if(sum != 0) {
+            sb.append(sum);
+            num--;
+            sum = 0;
+        }
+        sb.repeat('0', num);
 
         return sb.toString();
     }
