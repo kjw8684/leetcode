@@ -217,6 +217,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Joo-ProtoType/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Joo-ProtoType/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/Joo-ProtoType/leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Joo-ProtoType/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Joo-ProtoType/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2107-find-unique-binary-string](https://github.com/Joo-ProtoType/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Joo-ProtoType/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -811,6 +812,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/Joo-ProtoType/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Joo-ProtoType/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-two-best-non-overlapping-events](https://github.com/Joo-ProtoType/leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Joo-ProtoType/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Joo-ProtoType/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Joo-ProtoType/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/Joo-ProtoType/leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -913,6 +915,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Joo-ProtoType/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Joo-ProtoType/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Joo-ProtoType/leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Joo-ProtoType/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2092-find-all-people-with-secret](https://github.com/Joo-ProtoType/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2126-destroying-asteroids](https://github.com/Joo-ProtoType/leetcode/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Joo-ProtoType/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
