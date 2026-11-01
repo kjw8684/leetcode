@@ -1,14 +1,14 @@
 class Solution {
     public int minMoves(int[] nums) {
-        int len = nums.length, move = 0;
-        Arrays.sort(nums);
-        int min = nums[0];
+        int len = nums.length, move = 0, min = 1000000000;
+        for(int i = 0; i < len; i++) {
+            min = Math.min(min, nums[i]);
+        }
 
-        for(int i = len - 1; i > 0; i--) {
-            if(nums[i] == min) {
-                break;
+        for(int i = 0; i < len; i++) {
+            if(nums[i] != min) {
+                move += nums[i] - min;
             }
-            move += nums[i] - min;
         }
 
         return move;
