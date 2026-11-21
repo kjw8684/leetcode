@@ -415,6 +415,7 @@
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/Joo-ProtoType/leetcode/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Joo-ProtoType/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Joo-ProtoType/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Joo-ProtoType/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Joo-ProtoType/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -700,6 +701,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Joo-ProtoType/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Joo-ProtoType/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Joo-ProtoType/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Joo-ProtoType/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Joo-ProtoType/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Joo-ProtoType/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1629,6 +1631,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Joo-ProtoType/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Joo-ProtoType/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Joo-ProtoType/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Joo-ProtoType/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/Joo-ProtoType/leetcode/tree/master/3396-valid-word) |
@@ -1757,6 +1760,7 @@
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Joo-ProtoType/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Joo-ProtoType/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Joo-ProtoType/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Joo-ProtoType/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Joo-ProtoType/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -1852,6 +1856,7 @@
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Joo-ProtoType/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Joo-ProtoType/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3310-remove-methods-from-project](https://github.com/Joo-ProtoType/leetcode/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Joo-ProtoType/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Joo-ProtoType/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Joo-ProtoType/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Joo-ProtoType/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
